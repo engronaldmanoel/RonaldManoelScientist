@@ -1,3 +1,6 @@
-### Olá eu sou Ronald Manoel ![image](https://user-images.githubusercontent.com/100495133/155862470-4eec6b7d-8b20-4c99-96cd-0abf11c4202d.png)
+### Olá eu sou Ronald Manoel 💎
 
+Sou Estudante de Engenharia de Produção pela UFPA 🎓
+E aqui divulgo minhas pesquisas relacionadas a data science
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/ronald-manoel-de-paula/)
 
