@@ -28,4 +28,6 @@ E aqui divulgo minhas pesquisas relacionadas a Data Science:
 Apaixonado por Analises de dados e tecnologias voltada para business.
 
 ## Últimos Artigos
-- [Analise de dados no Rio de Janeiro](https://ronalddepaulaenterprise.medium.com/an%C3%A1lise-dos-apartamentos-do-airbnb-c7d29651f969)<br/>
+- [Analise dos Apartamentos do Airbnb](https://ronalddepaulaenterprise.medium.com/an%C3%A1lise-dos-apartamentos-do-airbnb-c7d29651f969)<br/>
+- [Métricas de Avaliação](https://www.linkedin.com/pulse/m%25C3%25A9tricas-de-avalia%25C3%25A7%25C3%25A3o-machine-learning-ronald-manoel-de-paula/?trackingId=X%2Fr3BoA%2BRXCCUBBvzV2inw%3D%3D)<br/>
+- 
