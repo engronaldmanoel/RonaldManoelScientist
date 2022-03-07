@@ -28,4 +28,4 @@ E aqui divulgo minhas pesquisas relacionadas a Data Science:
 Apaixonado por Analises de dados e tecnologias voltada para business.
 
 ## Últimos Artigos
-- [Analise de dados no Rio de Janeiro]()<br/>
+- [Analise de dados no Rio de Janeiro](https://ronalddepaulaenterprise.medium.com/an%C3%A1lise-dos-apartamentos-do-airbnb-c7d29651f969)<br/>
